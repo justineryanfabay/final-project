@@ -1,1 +1,2 @@
 # final-project
+This simple website was created to calculate your BMR easily with CRUD (create, read, update, delete) functionalities. This uses the Mifflin - St Jeor Equation as research suggests that this type of equation was said to be more predictive for modern lifestyles and has established itself as the standard for calculating BMR estimates. Created by Justine Ryan L. Fabay, Iloilo Science and Technology University (A.Y. 2021-2022).
